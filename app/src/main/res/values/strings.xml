@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SubastApp</string>
+    <string name="nombre_del_producto">Nombre del Producto</string>
+    <string name="ingrese_una_descripci_n">Ingrese una Descripción ...</string>
+</resources>
